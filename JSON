@@ -1,0 +1,259 @@
+{
+
+    "interactionModel": {
+
+        "languageModel": {
+
+            "invocationName": "what is on the lunch menu today",
+
+            "intents": [
+
+                {
+
+                    "name": "AMAZON.FallbackIntent",
+
+                    "samples": []
+
+                },
+
+                {
+
+                    "name": "AMAZON.CancelIntent",
+
+                    "samples": []
+
+                },
+
+                {
+ 
+                    "name": "AMAZON.HelpIntent",
+
+                    "samples": [
+
+                        "help"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AMAZON.StopIntent",
+
+                    "samples": [
+
+                        "nope thanks",
+
+                        "nope",
+
+                        "stop",
+
+                        "exit",
+
+                        "no thanks",
+
+                        "No"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetOSGFood",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "oh so good",
+
+                        "oh so good menu",
+
+                        "what does oh so good have today"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetFreshFood",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "fresh flex menu",
+
+                        "fresh flex",
+
+                        "fresh food",
+
+                        "fresh food menu",
+
+                        "what's on the fresh food menu",
+
+                        "What does fresh food have"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetUmamiMenu",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "umami",
+
+                        "umami menu",
+
+                        "whats on the umami menu"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetSoupMenu",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "the soup",
+
+                        "the soup menu",
+
+                        "soup",
+
+                        "soup menu",
+
+                        "what's on the soup menu"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetRecommended",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "a recommendation",
+
+                        "a lunch recommendation",
+
+                        "what should I get today",
+
+                        "what should I eat today",
+
+                        "what do you recommend"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetChefsTable",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "chef's table",
+
+                        "chef's table menu",
+
+                        "what is on the chef's table menu",
+
+                        "what does chef's table have today"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetMarketDeli",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "the market deli",
+
+                        "the deli",
+
+                        "market deli",
+
+                        "market deli menu",
+
+                        "deli menu",
+
+                        "what does the market deli menu have",
+
+                        "what is on the market deli menu "
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetGrille",
+
+                    "slots": [],
+
+                    "samples": [
+ 
+                        "the grill menu",
+                        "the grill ",
+
+                        "grill menu",
+
+                        "what's on the grill menu",
+                        "what does the grill have today"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetOvenFood",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "the oven menu",
+
+                        "oven menu",
+
+                        "oven",
+
+                        "the oven "
+
+                    ]
+
+                }
+
+            ],
+
+            "types": []
+
+        }
+
+    }
+
+}
